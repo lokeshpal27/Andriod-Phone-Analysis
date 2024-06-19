@@ -26,7 +26,7 @@ Dasboard represents
 - RAM
 - ROM
 
-<img width="596" alt="image" src="https://github.com/lokeshpal27/Andriod-Phone-Analysis/assets/114469389/51d2374c-08a5-4549-88b0-43e6556a5e6a">
+<img width="596" alt="image" src="https://github.com/lokeshpal27/Andriod-Phone-Analysis/assets/114469389/3d74a7ac-0888-464f-8a86-eb19bb7ac593">
 
 
 
